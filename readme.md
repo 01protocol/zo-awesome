@@ -24,6 +24,13 @@ got something to add? simply create a pull request 🤝
 - [Risk calculator](https://riskcalculator01.herokuapp.com/) by Griffin - Risk simulator based on positions, collaterals, and index prices
 - [CLI Trading Client](https://github.com/Merstab/zo-cli) by Merstab - Trade using your CLI
 
+### Liquidator Bots
+- [TypeScript Liquidator](https://github.com/01protocol/ts-liquidator) - TypeScript liquidator bot
+- [Rust Liquidator](https://github.com/01protocol/zo-keeper) - Rust based liquidator (much more efficient than TS)
+
+### Arbitrage Bots
+- [zo-arb](https://github.com/01protocol/zo-arb) - Arbitrage bot repository
+
 ### Market Making Bots
 - [ZO_MM](https://github.com/M3DUSA101/ZO_MM) by M3DUSA - Python bot capable of running 3 different strategies
 - [zo-mm](https://github.com/lmvdz/zo-mm) by lmvdz - Simple Typescript bot
