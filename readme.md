@@ -9,6 +9,8 @@ got something to add? simply create a pull request 🤝
 ### Contents
 - [SDKs](#sdks)
 - [Tools](#tools)
+- [Liquidator Bots](#liquidator-bots)
+- [Arbitrage Bots](#arbitrage-bots)
 - [Market Making Bots](#market-making-bots)
 - [Twitter Bots](#twitter-bots)
 
